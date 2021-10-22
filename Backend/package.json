@@ -1,0 +1,19 @@
+{
+  "name": "traffic_hack",
+  "version": "1.0.0",
+  "description": "Xack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LumberMaster/TrafficHack_RetrowaveLabs.git"
+  },
+  "author": "Retrowave labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LumberMaster/TrafficHack_RetrowaveLabs/issues"
+  },
+  "homepage": "https://github.com/LumberMaster/TrafficHack_RetrowaveLabs#readme"
+}
